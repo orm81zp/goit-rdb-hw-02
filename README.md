@@ -6,20 +6,20 @@
 
 ## 1НФ
 
-![1НФ](/assets/p2_1NF.png)
+![1НФ](/assets/p1_1NF.png)
 
 ## 2НФ
 
-![2НФ](/assets/p3_2NF.png)
+![2НФ](/assets/p2_2NF.png)
 
 ## 3НФ
 
-![3НФ](/assets/p4_3NF.png)
+![3НФ](/assets/p3_3NF.png)
 
 ## ER-діаграму отриманих таблиць
 
-![3НФ](/assets/p5_ERD.png)
+![3НФ](/assets/p4_ERD.png)
 
 ## Створено таблиці в базі даних
 
-![3НФ](/assets/p7_workbench.png)
+![3НФ](/assets/p5_workbench.png)
